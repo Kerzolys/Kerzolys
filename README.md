@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/gleb-khokhlov-frontend">
+  <a href="https://www.linkedin.com/in/gleb-khokhlov-frontend/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.linkedin.com/in/gleb-khokhlov-frontend">
+  <a href="https://t.me/kerzolys">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> 
   </a>
   <div id="counter" align="center">
@@ -42,7 +42,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: В свободное время я создаю небольшие приложения, в которых я тренирую новые навыки, связанные с аритектурой, использованием сторонних библиотек и фреймворков
 
-- :mailbox:Вы можете связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kerzolys-blue?style=flat&logo=Telegram&logoColor=white)](@kerzolys)
+- :mailbox:Вы можете связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kerzolys-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kerzolys)
 
 ---
 
