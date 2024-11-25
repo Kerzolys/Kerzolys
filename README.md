@@ -29,14 +29,13 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=Kerzolys&style=flat-square&color=blue" alt=""/>
   </div>
   <h1 align="center">
-    Добро пожаловать! 
+    Добро пожаловать! Меня зовут Глеб
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ### 👨‍💻 О себе: 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: Я работаю фронтенд-разработчиком
+Всем привет! Я - фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🌱: В настоящее время я работаю над созданием <a href="https://github.com/Kerzolys/velikanov" target="_blank">веб сайта</a> для знакомого дирижера
 
